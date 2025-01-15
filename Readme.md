@@ -38,3 +38,5 @@ Microservice Produits : Gestion des inventaires produits.
 API Gateway : Communication entre les services.
 
 Base de Données MySQL : Base de données relationnelle partagée par tous les microservices.
+
+![Capture d’écran 2025-01-15 à 17 23 08](https://github.com/user-attachments/assets/82490fac-4020-4771-849e-39d10ae006e7)
