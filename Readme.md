@@ -40,3 +40,11 @@ API Gateway : Communication entre les services.
 Base de Données MySQL : Base de données relationnelle partagée par tous les microservices.
 
 ![Capture d’écran 2025-01-15 à 17 23 08](https://github.com/user-attachments/assets/82490fac-4020-4771-849e-39d10ae006e7)
+![Capture d’écran 2025-01-15 à 17 23 14](https://github.com/user-attachments/assets/217314dd-71e2-4b63-b089-695bad80b42f)
+![Capture d’écran 2025-01-15 à 17 23 26](https://github.com/user-attachments/assets/e0484fa2-3bb2-40ca-85c5-58db0b34f53f)
+![Capture d’écran 2025-01-15 à 17 23 32](https://github.com/user-attachments/assets/4f79d120-bded-4419-8b66-f4ed6e3a4639)
+![Capture d’écran 2025-01-15 à 17 23 47](https://github.com/user-attachments/assets/9075fb3d-20ab-4744-8a45-61f201f0654f)
+![Capture d’écran 2025-01-15 à 17 22 46](https://github.com/user-attachments/assets/2f84d5be-97f3-44b2-854a-33633c81de5a)
+
+
+
